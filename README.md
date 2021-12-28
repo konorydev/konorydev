@@ -2,7 +2,7 @@
 
 
 #### 🔭 Lately I have been studying Java
-#### ⚡ Because I'm beautiful: I'm Italian
+#### ⚡ Because I'm a good programmer: I'm Italian
 #### 📫 You can contact me on telegram: @wsonoio
 <!--
 **konorydev/konorydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
